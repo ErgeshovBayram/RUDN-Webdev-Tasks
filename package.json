@@ -1,0 +1,10 @@
+{
+  "name": "rudn-webdev-tasks",
+  "version": "1.0.0",
+  "scripts": {
+    "color": "node script.js"
+  },
+  "dependencies": {
+    "chalk": "^4.1.2"
+  }
+}
